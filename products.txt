@@ -1,0 +1,9 @@
+Clothing - Name: shirt, Price: Rs.1000.0, Quantity: 5, Size: M
+Electronic - Name: phone, Price: Rs.20000.0, Quantity: 2, Brand: samsung
+Clothing - Name: fg, Price: Rs.200.0, Quantity: 2, Size: m
+Food - Name: lol, Price: Rs.5.0, Quantity: 5, Expiration Date: none
+Electronic - Name: tv, Price: Rs.10000.0, Quantity: 2, Brand: lg
+Clothing - Name: capst, Price: Rs.500.0, Quantity: 5, Size: m
+Clothing - Name: tshirt, Price: Rs.500.0, Quantity: 10, Size: M
+Food - Name: fish, Price: Rs.1000.0, Quantity: 6, Expiration Date: none
+Clothing - Name: ekel_t, Price: Rs.2000.0, Quantity: 5, Size: M,s
